@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center"><ing src="https://terrariums.ru/wp-content/uploads/2022/09/3-49.jpg" width="400"><p/>
+<p align="center"><img src="https://terrariums.ru/wp-content/uploads/2022/09/3-49.jpg" width="400"><p/>
 
 <p><a href="https://youtu.be/dQw4w9WgXcQ?si=KYxs1Hkxll1AGLzD">всякая всячина</a></p>
 
