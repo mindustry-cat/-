@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\aaaaaaa\bin\Debug\aaaaaaa.exe.config
+C:\Users\student\Desktop\aaaaaaa\bin\Debug\aaaaaaa.exe
+C:\Users\student\Desktop\aaaaaaa\bin\Debug\aaaaaaa.pdb
+C:\Users\student\Desktop\aaaaaaa\obj\Debug\aaaaaaa.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\aaaaaaa\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\aaaaaaa\obj\Debug\App.g.cs
+C:\Users\student\Desktop\aaaaaaa\obj\Debug\aaaaaaa_MarkupCompile.cache
+C:\Users\student\Desktop\aaaaaaa\obj\Debug\aaaaaaa_MarkupCompile.lref
+C:\Users\student\Desktop\aaaaaaa\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\aaaaaaa\obj\Debug\aaaaaaa.g.resources
+C:\Users\student\Desktop\aaaaaaa\obj\Debug\aaaaaaa.Properties.Resources.resources
+C:\Users\student\Desktop\aaaaaaa\obj\Debug\aaaaaaa.csproj.GenerateResource.cache
+C:\Users\student\Desktop\aaaaaaa\obj\Debug\aaaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\aaaaaaa\obj\Debug\aaaaaaa.exe
+C:\Users\student\Desktop\aaaaaaa\obj\Debug\aaaaaaa.pdb
